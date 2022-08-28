@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with jobs, contracts and projects
 - 💬 Ask me about anything 🙂
 - 📫 How to reach me:  
-      **Gmail:** isaacseun63@gmail.com
+      **Gmail:** isaacseun63@gmail.com  
       **[Facebook](https://www.facebook.com/dasimems "My facebook page 🙂")**  
       **[Instagram](https://www.instagram.com/dasimems "My instagram profile 🙂")**  
       **[LinkedIn](https://www.linkedin.com/in/dasimems "My Linkedin profile 🙂")**  
