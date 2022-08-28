@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Duyil Ayomid. Below are some information about me 🙃🙃
 
 - 🔭 I’m currently working as a **FRONT-END DEVELOPER**
-- 🧑‍💻 My skills are:
+- 🧑‍💻 My skills are:  
       **HTML**  
       **CSS**  
       **JavaScript**  
