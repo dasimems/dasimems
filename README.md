@@ -5,7 +5,7 @@
       **HTML**  
       **CSS**  
       **JavaScript**  
-      **React Js**
+      **React Js**  
       **React Native**  
       **Node Js**  
       **PHP**  
