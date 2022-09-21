@@ -6,7 +6,7 @@
       **CSS**  
       **JavaScript**  
       **React Js**
-      **React Native**
+      **React Native**  
       **Node Js**  
       **PHP**  
       **Python**  
