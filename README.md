@@ -5,6 +5,8 @@
       **HTML**  
       **CSS**  
       **JavaScript**  
+      **TypeScript**  
+      **Webpack**  
       **React Js**  
       **React Native**  
       **Node Js**  
