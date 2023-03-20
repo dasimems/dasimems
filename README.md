@@ -8,6 +8,8 @@
       **TypeScript**  
       **Webpack**  
       **React Js**  
+      **React Typescript**  
+      **Next Js**  
       **React Native**  
       **Node Js**  
       **PHP**  
