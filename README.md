@@ -35,7 +35,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
     <td><a href="https://https://instadelivery.org" target="_blank"><img src="[https://instadelivery.org/meta.png](https://github.com/dasimems/dasimems/blob/main/instadelivery-logo.svg" width="100%"/> ISDS Instadelivery</a></td>
   </tr>
   <tr>
-    <td><a href="https://connect.dasimems.tech" target="_blank"><img src="https://connect.dasimems.tech/meta.png" width="100%"/> Buabed Banafa perfumes</a></td>
+    <td><a href="https://banafa-94m3w.ondigitalocean.app" target="_blank"><img src="https://banafa-94m3w.ondigitalocean.app/meta_image.png" width="100%"/> Buabed Banafa perfumes</a></td>
   </tr>
 <!--   <tr>
     <td><a href="https://play.dasimems.tech" target="_blank"><img src="https://play.dasimems.tech/meta.png" width="100%"/></a></td>
