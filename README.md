@@ -52,7 +52,7 @@ I'm available for:
 - Long-term technical partnerships
 
 📧 **Email**: [dasimems@gmail.com](mailto:dasimems@gmail.com)  
-🌐 **GitHub**: [github.com/dasimems](https://github.com/dasimems)
+🌐 **LinkedIn**: [linkedin.com/in/dasimems](https://linkedin.com/in/dasimems)
 
 ---
 
