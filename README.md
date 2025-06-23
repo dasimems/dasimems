@@ -32,13 +32,29 @@ I bring more than just code — I bring real-world solutions that scale, perform
 
 <table>
   <tr>
-    <td><a href="https://https://instadelivery.org" target="_blank"><img src="[https://instadelivery.org/meta.png](https://github.com/dasimems/dasimems/blob/main/instadelivery-logo.svg" width="100%"/> <br /> ISDS Instadelivery</a></td>
+    <td><a href="https://https://instadelivery.org" target="_blank"><img src="https://instadelivery.org/_next/static/media/logo.05c14fa1.svg" width="100%"/> <br /> ISDS Instadelivery</a></td>
+    <td>A business website focused on making awareness about the Insta delivery application <br /> Tech Stacks<br /> 
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" /></td>
   </tr>
   <tr>
     <td><a href="https://banafa-94m3w.ondigitalocean.app" target="_blank"><img src="https://banafa-94m3w.ondigitalocean.app/meta_image.png" width="200"/> <br /> Buabed Banafa perfumes</a></td>
+    <td>An Ecommerce application for the sales of beautifying products <br /> Tech Stacks<br /> 
+      <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square" alt="Postgres SQL" />
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
+<img src="https://img.shields.io/badge/-Nest.js-E1214D?logo=nest.js&logoColor=white&style=flat-square" alt="Nest Js" />
+<img src="https://img.shields.io/badge/-Zustand?logo=zustand&logoColor=white&style=flat-square" alt="Zustand" />
+    </td>
   </tr>
 <tr>
     <td><a href="https://tradopmnow.com" target="_blank"><img src="https://www.tradeopmnow.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FWhite-color.50975e37.png&w=64&q=75&dpl=dpl_BNa9h23kxBAiSncxYGrcovqFoJLu" width="200"/> <br /> Trade OPM now</a></td>
+<td>A Forex application with the urge to financial education and a trading platform that focuses on empowering individuals to trade futures and forex using other people's capital <br /> Tech Stacks<br /> 
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" /></td>
   </tr>
 <!--   <tr>
     <td><a href="https://play.dasimems.tech" target="_blank"><img src="https://play.dasimems.tech/meta.png" width="100%"/></a></td>
@@ -69,7 +85,9 @@ I'm available for:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Nest.js](https://img.shields.io/badge/-Nest.js-E1214D?logo=next.js&logoColor=white&style=flat-square)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E1214D?logo=nest.js&logoColor=white&style=flat-square)
+![Zustand](https://img.shields.io/badge/-Zustand?logo=zustand&logoColor=white&style=flat-square)
+![Context Api](https://img.shields.io/badge/-Context%20Api?logo=context-api&logoColor=white&style=flat-square)
 
 ---
 
