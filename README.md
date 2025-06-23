@@ -48,6 +48,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node js" />
 <img src="https://img.shields.io/badge/-Nest.js-E1214D?logo=nestjs&logoColor=white&style=flat-square" alt="Nest Js" />
 <img src="https://img.shields.io/badge/-Zustand-808080?logo=zustand&logoColor=white&style=flat-square" alt="Zustand" />
+<img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square" alt="Axios" />
 <img src="https://img.shields.io/badge/-Tanstack%20Query-F05937?logo=tanstack&logoColor=white&style=flat-square" alt="Tanstack Query" />
     </td>
   </tr>
