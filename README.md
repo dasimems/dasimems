@@ -53,7 +53,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
     </td>
   </tr>
 <tr>
-    <td><a href="https://tradopmnow.com" target="_blank"><img src="https://www.tradeopmnow.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FWhite-color.50975e37.png&w=64&q=75&dpl=dpl_BNa9h23kxBAiSncxYGrcovqFoJLu" width="200"/> <br /> Trade OPM now</a></td>
+    <td><a href="https://tradeopmnow.com" target="_blank"><img src="https://www.tradeopmnow.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FWhite-color.50975e37.png&w=64&q=75&dpl=dpl_BNa9h23kxBAiSncxYGrcovqFoJLu" width="200"/> <br /> Trade OPM now</a></td>
 <td>A Forex application with the urge to financial education and a trading platform that focuses on empowering individuals to trade futures and forex using other people's capital <br /> Tech Stacks<br /> 
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
