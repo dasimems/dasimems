@@ -45,7 +45,8 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
-<img src="https://img.shields.io/badge/-Nest.js-E1214D?logo=nest.js&logoColor=white&style=flat-square" alt="Nest Js" />
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node js" />
+<img src="https://img.shields.io/badge/-Nest.js-E1214D?logo=nestjs&logoColor=white&style=flat-square" alt="Nest Js" />
 <img src="https://img.shields.io/badge/-Zustand-808080?logo=zustand&logoColor=white&style=flat-square" alt="Zustand" />
     </td>
   </tr>
@@ -55,6 +56,16 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" /></td>
+  </tr>
+<tr>
+    <td><a href="https://bubblemart.shop" target="_blank"><img src="https://bubblemart.shop/_next/static/media/logo.1d65f9f8.svg" width="200"/> <br /> Bubblemart</a></td>
+<td>A Social sales application <br /> Tech Stacks<br /> 
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node js" />
+<img src="https://img.shields.io/badge/-Zustand-808080?logo=zustand&logoColor=white&style=flat-square" alt="Zustand" />
+<img src="https://img.shields.io/badge/-Express.js-FFFFFF?logo=express&logoColor=black&style=flat-square" alt="Express js" /></td>
   </tr>
 <!--   <tr>
     <td><a href="https://play.dasimems.tech" target="_blank"><img src="https://play.dasimems.tech/meta.png" width="100%"/></a></td>
@@ -85,9 +96,10 @@ I'm available for:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
-![Nest.js](https://img.shields.io/badge/-Nest.js-E1214D?logo=nest.js&logoColor=white&style=flat-square)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E1214D?logo=nestjs&logoColor=white&style=flat-square)
 ![Zustand](https://img.shields.io/badge/-Zustand-808080?logo=zustand&logoColor=white&style=flat-square)
 ![Context Api](https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square)
+![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?logo=express&logoColor=black&style=flat-square)
 
 ---
 
