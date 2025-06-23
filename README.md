@@ -37,6 +37,9 @@ I bring more than just code — I bring real-world solutions that scale, perform
   <tr>
     <td><a href="https://banafa-94m3w.ondigitalocean.app" target="_blank"><img src="https://banafa-94m3w.ondigitalocean.app/meta_image.png" width="200"/> <br /> Buabed Banafa perfumes</a></td>
   </tr>
+<tr>
+    <td><a href="https://tradopmnow.com" target="_blank"><img src="https://www.tradeopmnow.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FWhite-color.50975e37.png&w=64&q=75&dpl=dpl_BNa9h23kxBAiSncxYGrcovqFoJLu" width="200"/> <br /> Trade OPM now</a></td>
+  </tr>
 <!--   <tr>
     <td><a href="https://play.dasimems.tech" target="_blank"><img src="https://play.dasimems.tech/meta.png" width="100%"/></a></td>
   </tr> -->
@@ -72,9 +75,13 @@ I'm available for:
 
 ## 📊 GitHub Stats
 
-  ![Top Languages](https://github-readme-streak-stats.herokuapp.com?user=dasimems&theme=radical&hide_border=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasimems&show_icons=true&theme=radical)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dasimems&show_icons=true&theme=radical)
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dasimems&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dasimems&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasimems&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
