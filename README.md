@@ -46,7 +46,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
 <img src="https://img.shields.io/badge/-Nest.js-E1214D?logo=nest.js&logoColor=white&style=flat-square" alt="Nest Js" />
-<img src="https://img.shields.io/badge/-Zustand?logo=zustand&logoColor=white&style=flat-square" alt="Zustand" />
+<img src="https://img.shields.io/badge/-Zustand-?logo=zustand&logoColor=white&style=flat-square" alt="Zustand" />
     </td>
   </tr>
 <tr>
@@ -86,8 +86,8 @@ I'm available for:
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E1214D?logo=nest.js&logoColor=white&style=flat-square)
-![Zustand](https://img.shields.io/badge/-Zustand?logo=zustand&logoColor=white&style=flat-square)
-![Context Api](https://img.shields.io/badge/-Context%20Api?logo=context-api&logoColor=white&style=flat-square)
+![Zustand](https://img.shields.io/badge/-Zustand-?logo=zustand&logoColor=white&style=flat-square)
+![Context Api](https://img.shields.io/badge/-Context%20Api-?logo=context-api&logoColor=white&style=flat-square)
 
 ---
 
