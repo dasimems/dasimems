@@ -79,8 +79,8 @@ I'm available for:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasimems&layout=compact&theme=radical" alt="Top Languages" />
   <br />
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dasimems&show_icons=true&theme=radical)
 </p>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dasimems&show_icons=true&theme=radical)
 
 ---
 
