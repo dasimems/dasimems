@@ -76,10 +76,11 @@ I'm available for:
   
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dasimems&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasimems&layout=compact&theme=radical" alt="Top Languages" />
-  <br />
 </p>
+
+  <br/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasimems&show_icons=true&theme=radical)
+  <br />
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dasimems&show_icons=true&theme=radical)
 
 ---
