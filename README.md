@@ -66,6 +66,7 @@ I'm available for:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Nest.js](https://img.shields.io/badge/-Nest.js-E1214D?logo=next.js&logoColor=white&style=flat-square)
 
 ---
 
@@ -78,7 +79,7 @@ I'm available for:
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasimems&layout=compact&theme=radical" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=dasimems&show_icons=true&theme=radical" alt="GitHub Stats" />
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dasimems&show_icons=true&theme=radical)
 </p>
 
 ---
