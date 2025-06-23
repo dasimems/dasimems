@@ -32,7 +32,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 
 <table>
   <tr>
-    <td><a href="https://https://instadelivery.org" target="_blank"><img src="https://instadelivery.org/_next/static/media/logo.05c14fa1.svg" width="100%"/> <br /> ISDS Instadelivery</a></td>
+    <td><a href="https://instadelivery.org" target="_blank"><img src="https://instadelivery.org/_next/static/media/logo.05c14fa1.svg" width="100%"/> <br /> ISDS Instadelivery</a></td>
     <td>A business website focused on making awareness about the Insta delivery application <br /> Tech Stacks<br /> 
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
@@ -53,7 +53,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
     </td>
   </tr>
 <tr>
-    <td><a href="https://tradeopmnow.com" target="_blank"><img src="https://www.tradeopmnow.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FWhite-color.50975e37.png&w=64&q=75&dpl=dpl_BNa9h23kxBAiSncxYGrcovqFoJLu" width="200"/> <br /> Trade OPM now</a></td>
+    <td><a href="https://www.tradeopmnow.com" target="_blank"><img src="https://www.tradeopmnow.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FWhite-color.50975e37.png&w=64&q=75&dpl=dpl_BNa9h23kxBAiSncxYGrcovqFoJLu" width="200"/> <br /> Trade OPM now</a></td>
 <td>A Forex application with the urge to financial education and a trading platform that focuses on empowering individuals to trade futures and forex using other people's capital <br /> Tech Stacks<br /> 
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
@@ -62,7 +62,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square" alt="Context api" /></td>
   </tr>
 <tr>
-    <td><a href="https://bubblemart.shop" target="_blank"><img src="https://bubblemart.shop/_next/static/media/logo.1d65f9f8.svg" width="200"/> <br /> Bubblemart</a></td>
+    <td><a href="https://www.bubblemart.shop" target="_blank"><img src="https://bubblemart.shop/_next/static/media/logo.1d65f9f8.svg" width="200"/> <br /> Bubblemart</a></td>
 <td>A Social sales application <br /> Tech Stacks<br /> 
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
@@ -74,7 +74,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-Express.js-FFFFFF?logo=express&logoColor=black&style=flat-square" alt="Express js" /></td>
   </tr>
   <tr>
-    <td><a href="https://https://www.upstateconnectrochester.com/" target="_blank"><img src="https://www.upstateconnectrochester.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffavicon.95910884.png&w=48&q=75" width="200"/> <br /> Upstate connect rochester</a></td>
+    <td><a href="https://www.upstateconnectrochester.com/" target="_blank"><img src="https://www.upstateconnectrochester.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffavicon.95910884.png&w=48&q=75" width="200"/> <br /> Upstate connect rochester</a></td>
 <td>A scholarship registration application for Students willing to study in the United states <br /> Tech Stacks<br /> 
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
