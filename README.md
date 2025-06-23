@@ -57,7 +57,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
-<img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=black&style=flat-square" alt="Axios" />
+<img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square" alt="Axios" />
 <img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square" alt="Context api" /></td>
   </tr>
 <tr>
@@ -68,9 +68,18 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node js" />
 <img src="https://img.shields.io/badge/-Zustand-808080?logo=zustand&logoColor=white&style=flat-square" alt="Zustand" />
-<img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=black&style=flat-square" alt="Axios" />
+<img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square" alt="Axios" />
 <img src="https://img.shields.io/badge/-Tanstack%20Query-F05937?logo=tanstack&logoColor=white&style=flat-square" alt="Tanstack Query" />
 <img src="https://img.shields.io/badge/-Express.js-FFFFFF?logo=express&logoColor=black&style=flat-square" alt="Express js" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://https://www.upstateconnectrochester.com/" target="_blank"><img src="https://www.upstateconnectrochester.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffavicon.95910884.png&w=48&q=75" width="200"/> <br /> Upstate connect rochester</a></td>
+<td>A scholarship registration application for Students willing to study in the United states <br /> Tech Stacks<br /> 
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
+<img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square" alt="Axios" />
+<img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square" alt="Context api" /></td>
   </tr>
 <!--   <tr>
     <td><a href="https://play.dasimems.tech" target="_blank"><img src="https://play.dasimems.tech/meta.png" width="100%"/></a></td>
