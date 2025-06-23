@@ -72,15 +72,8 @@ I'm available for:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dasimems&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-  <br/>
+  ![Top Languages](https://github-readme-streak-stats.herokuapp.com?user=dasimems&theme=radical&hide_border=true)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dasimems&show_icons=true&theme=radical)
-  <br />
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dasimems&show_icons=true&theme=radical)
 
 ---
