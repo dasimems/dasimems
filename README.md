@@ -59,7 +59,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
 <img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square" alt="Axios" />
-<img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square" alt="Context api" /></td>
+<img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=react&logoColor=white&style=flat-square" alt="Context api" /></td>
   </tr>
 <tr>
     <td><a href="https://www.bubblemart.shop" target="_blank"><img src="https://bubblemart.shop/_next/static/media/logo.1d65f9f8.svg" width="200"/> <br /> Bubblemart</a></td>
@@ -80,7 +80,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
 <img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square" alt="Axios" />
-<img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square" alt="Context api" /></td>
+<img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=react&logoColor=white&style=flat-square" alt="Context api" /></td>
   </tr>
   <tr>
     <td><a href="https://www.maizane.com/" target="_blank"><img src="https://github.com/dasimems/dasimems/blob/main/maizane.png?raw=true" width="200"/> <br /> Maizane</a></td>
@@ -89,7 +89,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
 <img src="https://img.shields.io/badge/-GraphQL-DE34A6?logo=graphql&logoColor=white&style=flat-square" alt="Graphql" />
-<img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square" alt="Context api" /></td>
+<img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=react&logoColor=white&style=flat-square" alt="Context api" /></td>
   </tr>
 <!--   <tr>
     <td><a href="https://play.dasimems.tech" target="_blank"><img src="https://play.dasimems.tech/meta.png" width="100%"/></a></td>
@@ -122,7 +122,7 @@ I'm available for:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E1214D?logo=nestjs&logoColor=white&style=flat-square)
 ![Zustand](https://img.shields.io/badge/-Zustand-808080?logo=zustand&logoColor=white&style=flat-square)
-![Context Api](https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square)
+![Context Api](https://img.shields.io/badge/-Context%20Api-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?logo=express&logoColor=black&style=flat-square)
 ![Axios](https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square)
 ![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-F05937?logo=reactquery&logoColor=white&style=flat-square)
