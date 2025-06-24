@@ -49,7 +49,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-Nest.js-E1214D?logo=nestjs&logoColor=white&style=flat-square" alt="Nest Js" />
 <img src="https://img.shields.io/badge/-Zustand-808080?logo=zustand&logoColor=white&style=flat-square" alt="Zustand" />
 <img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square" alt="Axios" />
-<img src="https://img.shields.io/badge/-Tanstack%20Query-F05937?logo=tanstack&logoColor=white&style=flat-square" alt="Tanstack Query" />
+<img src="https://img.shields.io/badge/-Tanstack%20Query-F05937?logo=reactquery&logoColor=white&style=flat-square" alt="Tanstack Query" />
     </td>
   </tr>
 <tr>
@@ -70,7 +70,7 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" alt="Node js" />
 <img src="https://img.shields.io/badge/-Zustand-808080?logo=zustand&logoColor=white&style=flat-square" alt="Zustand" />
 <img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square" alt="Axios" />
-<img src="https://img.shields.io/badge/-Tanstack%20Query-F05937?logo=tanstack&logoColor=white&style=flat-square" alt="Tanstack Query" />
+<img src="https://img.shields.io/badge/-Tanstack%20Query-F05937?logo=reactquery&logoColor=white&style=flat-square" alt="Tanstack Query" />
 <img src="https://img.shields.io/badge/-Express.js-FFFFFF?logo=express&logoColor=black&style=flat-square" alt="Express js" /></td>
   </tr>
   <tr>
@@ -80,6 +80,15 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
 <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
 <img src="https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square" alt="Axios" />
+<img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square" alt="Context api" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://www.maizane.com/" target="_blank"><img src="https://github.com/dasimems/dasimems/blob/main/maizane.png?raw=true" width="200"/> <br /> Maizane</a></td>
+<td>An online fashion brand focused on clothing <br /> Tech Stacks<br /> 
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
+<img src="https://img.shields.io/badge/-GraphQL-DE34A6?logo=graphql&logoColor=white&style=flat-square" alt="Graphql" />
 <img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square" alt="Context api" /></td>
   </tr>
 <!--   <tr>
@@ -116,7 +125,8 @@ I'm available for:
 ![Context Api](https://img.shields.io/badge/-Context%20Api-61DAFB?logo=context-api&logoColor=white&style=flat-square)
 ![Express.js](https://img.shields.io/badge/-Express.js-FFFFFF?logo=express&logoColor=black&style=flat-square)
 ![Axios](https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square)
-![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-F05937?logo=tanstack&logoColor=white&style=flat-square)
+![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-F05937?logo=reactquery&logoColor=white&style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-DE34A6?logo=graphql&logoColor=white&style=flat-square)
 
 ---
 
