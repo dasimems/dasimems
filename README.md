@@ -91,6 +91,14 @@ I bring more than just code — I bring real-world solutions that scale, perform
 <img src="https://img.shields.io/badge/-GraphQL-DE34A6?logo=graphql&logoColor=white&style=flat-square" alt="Graphql" />
 <img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=react&logoColor=white&style=flat-square" alt="Context api" /></td>
   </tr>
+ <tr>
+    <td><a href="https://www.yusdamfly.com/" target="_blank"><img src="https://yusdamfly.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fyusdam-logo.0dfce501.png&w=128&q=75" width="200"/> <br /> Yusdamfly</a></td>
+<td>A website for travel agency based in Ibadan, Nigeria, providing a full suite of travel-related services<br /> Tech Stacks<br /> 
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square" alt="Tailwind Css" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square" alt="React" />
+<img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next Js" />
+<img src="https://img.shields.io/badge/-Context%20Api-61DAFB?logo=react&logoColor=white&style=flat-square" alt="Context api" /></td>
+  </tr>
 <!--   <tr>
     <td><a href="https://play.dasimems.tech" target="_blank"><img src="https://play.dasimems.tech/meta.png" width="100%"/></a></td>
   </tr> -->
