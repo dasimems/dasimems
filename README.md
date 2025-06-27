@@ -135,6 +135,13 @@ I'm available for:
 ![Axios](https://img.shields.io/badge/-Axios-373747?logo=axios&logoColor=white&style=flat-square)
 ![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-F05937?logo=reactquery&logoColor=white&style=flat-square)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-DE34A6?logo=graphql&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-Github-121011?logo=github&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DD0031?logo=redis&logoColor=white&style=flat-square)
+![Expo](https://img.shields.io/badge/-Expo-1C1E24?logo=expo&logoColor=#D04A37&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-Typescript-007ACC?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-Javascript-323330?logo=javascript&logoColor=F7DF1E&style=flat-square)
 
 ---
 
